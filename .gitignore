@@ -131,3 +131,6 @@ crash.log
 
 # Ignore .idea from pycharm
 .idea
+
+# Ignore key files
+*.pem
